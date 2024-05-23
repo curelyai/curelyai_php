@@ -1,0 +1,16 @@
+{
+    "name": "curelyai/curelyai",
+    "description": "CurelyAI is a PHP client library for interacting with the Curely AI API. This package simplifies the process of sending messages to the AI chatbot and receiving responses.",
+    "autoload": {
+        "psr-4": {
+            "Curelyai\\Curelyai\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Curely AI",
+            "email": "curelyai@gmail.com"
+        }
+    ],
+    "require": {}
+}
