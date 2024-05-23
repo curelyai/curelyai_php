@@ -7,7 +7,7 @@ CurelyAI is a PHP client library for interacting with the Curely AI API. This pa
 To install the CurelyAI package, use Composer:
 
 ```sh
-composer require curelyai/curelyai-php
+composer require curelyai/curelyai
 
 # USAGE
 require 'vendor/autoload.php'; #'not needed for php frameworks like laravel'
